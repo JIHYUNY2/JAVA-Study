@@ -1,3 +1,4 @@
+//기본형에 변수 대입해보기
 public class VarChange1 {
     public static void main(String[] args) {
         // 기본형에 값 대입하기
